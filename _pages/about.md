@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+======
 I am a junior undergraduate student at [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University, currently advised by Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/people/faculty/xiaotiedeng/index.htm). 
 
 My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning.
