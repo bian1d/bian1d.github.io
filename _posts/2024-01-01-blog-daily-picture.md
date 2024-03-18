@@ -8,20 +8,23 @@ tags:
   - memories
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Immodest photos
+🤗Immodest photos🤗
 ======
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="bian1d/images/Yide's Fun/YideBian_Portrait_flower.jpg" alt="Floral Gaze" style="width: 48%; margin-right: 2%;" />
-  <img src="bian1d/images/Yide's Fun/YideBian_Portrait_magic.jpg" alt="magic!" style="width: 48%;" />
-</div>
+![Floral Gaze](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Portrait_flower.jpg)
 
-<!-- Crazy high school days
+![Magic](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Portrait_magic.jpg)
+
+Crazy high school days
 ======
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://example.com/path-to-your-first-photo.jpg" alt="Nap time == morgue" style="width: 48%; margin-right: 2%;" />
-  <img src="https://example.com/path-to-your-second-photo.jpg" alt="描述2" style="width: 48%;" />
-</div> -->
+![Workout Time!](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_workout.jpg)
+
+![Nap time == morgue](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_morgue.jpg)
+
+
+HomeTown Cuisine
+======
+![stir-fried mutton with scallions](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_scallion_lamb.jpg)
+
+![The pork shared when we became sworn brothers.](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_BBQ_pork.jpg)
 
 ------

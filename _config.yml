@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -56,15 +56,15 @@ author:
   keybase          : # Username
   instagram        : bian1d.cn
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : bian1d
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : bian1d
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "Yide Bian"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
