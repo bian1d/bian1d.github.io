@@ -10,21 +10,21 @@ tags:
 
 🤗Immodest photos🤗
 ======
-![Floral Gaze](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Portrait_flower.jpg)
+![Floral Gaze](/assets/Yide_Fun/YideBian_Portrait_flower.jpg)
 
-![Magic](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Portrait_magic.jpg)
+<!-- ![Magic](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Portrait_magic.jpg) -->
 
 Crazy high school days
 ======
-![Workout Time!](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_workout.jpg)
+<!-- ![Workout Time!](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_workout.jpg)
 
-![Nap time == morgue](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_morgue.jpg)
+![Nap time == morgue](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_classroom_morgue.jpg) -->
 
 
 HomeTown Cuisine
 ======
-![stir-fried mutton with scallions](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_scallion_lamb.jpg)
+<!-- ![stir-fried mutton with scallions](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_scallion_lamb.jpg)
 
-![The pork shared when we became sworn brothers.](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_BBQ_pork.jpg)
+![The pork shared when we became sworn brothers.](https://github.com/bian1d/bian1d.github.io/blob/master/images/Yide_Fun/YideBian_Xuzhou_Cuisine_BBQ_pork.jpg) -->
 
 ------
