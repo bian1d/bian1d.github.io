@@ -68,7 +68,7 @@ Education
 * Bachelor of Science in Data Science and Big Data Technology, Yuanpei College, Peking University, 2021/09 – 2025/07
   * Cumulative GPA: 3.74/4.00
   * Related Courses: Machine Learning, Generative Modeling, Probability Theory, Econometrics, Operating Systems
-  * Awards: Gold Medalist (#46th) & National Training Team Member at 34rd Chinese Chemistry Olympiad (2020), School-level Learning Excellence Award (2022)
+  * Awards: Gold Medalist & National Training Team Member at 34rd Chinese Chemistry Olympiad (2020), School-level Learning Excellence Award (2022)
 
 Work experience
 ======

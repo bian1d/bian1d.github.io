@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 I am a junior undergraduate student at [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University, currently advised by Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/people/faculty/xiaotiedeng/index.htm). 
 
 My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning.
@@ -19,9 +18,14 @@ Recent research work
   Yunxuan Ma, **Yide Bian**, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang, Xiaotie Deng
   [[Abstract](https://bian1d.github.io/posts/2024/02/large-scale-contextual-market-equilibrium/)]
 
-Related Courses
+Don't Go Yet!🍃
 ======
-Machine Learning, Generative Modeling, Probability Theory, Econometrics, Operating Systems
+Check out my interesting photo for more!
+[Visit My Blog](https://bian1d.github.io/posts/2023/01/Photo_of_choice/)
+
+<!-- Related Courses
+======
+Machine Learning, Generative Modeling, Probability Theory, Econometrics, Operating Systems -->
 <!-- Selected Awards
 ======
 Chinese Chemistry Olympiad (First Prize, Rank 46 in China), 2020 -->
