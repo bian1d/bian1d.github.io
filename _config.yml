@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yide Bian's HomePage"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Yide Bian"
 description              : &description "Undergraduate at Peking University"
