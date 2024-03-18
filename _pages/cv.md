@@ -73,7 +73,7 @@ Education
 Work experience
 ======
 * Laboratory of Dr. Xiaotie Deng, Beijing, China
-  * **Large-Scale Contextual Market Equilibrium Computation through Deep Learning**, 2023/07 – Present
+  * **Large-Scale Contextual Market Equilibrium Computation through Deep Learning**, 2023/07 – 2024/02
     * Developed a context-based method for solving large-scale market equilibrium.
     * Proposed Nash-GAP, an optimization metric.
     * Responsible for pre-paper research, coding, experiments, and writing part of the paper.
@@ -99,7 +99,7 @@ Skills
 
 Research Interests
 ======
-* Deep Learning Algorithms, Data in Social Science.
+* Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning.
 
 Hobbies
 ======
