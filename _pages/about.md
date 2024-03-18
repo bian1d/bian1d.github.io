@@ -13,7 +13,8 @@ My academic interests include Computational Economics, Explainable AI, and Uncer
 
 Recent research work
 ======
-- Large-Scale Contextual Market Equilibrium Computation through Deep Learning 
+- **Large-Scale Contextual Market Equilibrium Computation through Deep Learning**
+
   Yunxuan Ma, **Yide Bian**, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang, Xiaotie Deng
   [[Abstract](https://bian1d.github.io/posts/2024/02/large-scale-contextual-market-equilibrium/)]
 
