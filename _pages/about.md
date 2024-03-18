@@ -23,6 +23,8 @@ Don't Go Yet!🍃
 Check out my interesting photo for more!
 [Visit My Blog](https://bian1d.github.io/posts/2023/01/Photo_of_choice/)
 
+Feel Free to Contact me at *bian1d@berkeley.edu* or *bian1d@stu.pku.edu.cn*
+
 <!-- Related Courses
 ======
 Machine Learning, Generative Modeling, Probability Theory, Econometrics, Operating Systems -->
