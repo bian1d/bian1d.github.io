@@ -103,4 +103,4 @@ Research Interests
 
 Hobbies
 ======
-* Cycling, tennis, skiing, learning German, and playing MOBA games.
+* Tennis, Cycling, Skiing, American-style role-playing board games, and MOBA games.
