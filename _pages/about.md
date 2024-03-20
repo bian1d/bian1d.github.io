@@ -9,7 +9,7 @@ redirect_from:
 
 I am a junior undergraduate student at [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University, and I am spending this semester as an exchange student at the University of California, Berkeley. I'm Currently advised by Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/people/faculty/xiaotiedeng/index.htm). 
 
-My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning.
+My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning. Here's my [CV](https://drive.google.com/file/d/1rzDjbNf2FM7iRQh66b0GfjaqgzoSGFeH/view?usp=drive_link) and my [transcripts](https://drive.google.com/file/d/1NP6Tau9O6qO6V9MAqGgZBO-q-bed5NKE/view?usp=sharing).
 
 Recent research work
 ======
