@@ -27,4 +27,8 @@ HomeTown Cuisine
 
 ![The pork shared when we became sworn brothers.](/assets/Yide_Fun/YideBian_Xuzhou_Cuisine_BBQ_pork.jpg)
 
+HomeTown Cuisine
+======
+some good article i would like to share:
+[how i use chatgpt as a data scientist](https://medium.com/towards-data-science/how-i-use-chatgpt-as-a-data-scientist-0730fa1e21c2)
 ------
