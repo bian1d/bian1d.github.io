@@ -72,11 +72,42 @@ Education
 
 Work experience
 ======
+* Prof. Liangming Pan's Group, Peking University, Beijing, China
+  * **Interpretable Data Attribution for LLM Post-training**, 2025/12 – present
+    * Identified which RLHF training samples make a language model less toxic by applying influence-function data attribution to PPO rollouts, a setting prior attribution work (pretraining-only) did not cover.
+    * Implemented EK-FAC influence functions from scratch in PyTorch, matching brute-force Fisher computation within 1e-3 error; now extending the method to RLVR-trained reasoning models (DeepSeek-R1-Distill-Qwen-1.5B).
+    * Builds on: Grosse et al., *Studying Large Language Model Generalization with Influence Functions* (Anthropic, 2023) [[arXiv](https://arxiv.org/abs/2308.03296)] [[Anthropic Research](https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions)]
+
+* Laboratory of Prof. He Wang, Peking University, Beijing, China
+  * **Motion Planning and Control for Collaborative Robot and Quadruped System**, 2025/03 – 2025/06
+    * Developed RRT-based collaborative motion planning for a robot (GalBot) and quadruped (Unitree Go2) system, enabling synchronized, collision-free task execution.
+    * Bridged sim-to-real gaps by calibrating quadruped trajectory and locomotion parameters across real platforms.
+
+  <div class="media-row">
+  <figure style="--ar: 0.75">
+  <a href="/images/robot_onsite.jpg" target="_blank" rel="noopener"><img src="/images/robot_onsite.jpg" alt="On-site real-robot experiment with GalBot and Unitree Go2"></a>
+  <figcaption>On-site real-robot experiment (GalBot + Unitree Go2). Click to enlarge.</figcaption>
+  </figure>
+  <figure style="--ar: 1.6889">
+  <video controls preload="metadata" playsinline poster="/images/robotics_demo_poster.jpg">
+  <source src="/files/robotics_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+  <figcaption>Simulation demo: collaborative planning for arm + quadruped (MuJoCo)</figcaption>
+  </figure>
+  </div>
+
+* Laboratory of Dr. Di He, Peking University, Beijing, China
+  * **Molecular Force Field Prediction Using Graph Neural Networks**, 2024/06 – 2024/11
+    * Tested whether physics-informed design improves neural network accuracy: implemented force prediction as energy gradients with respect to particle positions, trained on ~1.28 million organic molecules, and matched the SOTA EquiformerV2 model.
+    * Integrated real-time data streaming into Meta's Fairseq training framework in Python, sustaining stable training across 8× RTX 4090 GPUs.
+
 * Laboratory of Dr. Xiaotie Deng, Beijing, China
   * **Large-Scale Contextual Market Equilibrium Computation through Deep Learning**, 2023/07 – 2024/02
     * Developed a context-based method for solving large-scale market equilibrium.
     * Proposed Nash-GAP, an optimization metric.
     * Responsible for pre-paper research, coding, experiments, and writing part of the paper.
+    * Published in *Frontiers of Algorithmics (IJTCS-FAW 2025)*, LNCS, Springer, pp. 356–371. [[arXiv](https://arxiv.org/abs/2406.15459)] [[Springer](https://link.springer.com/chapter/10.1007/978-981-96-8312-3_27)] [[Abstract](https://bian1d.github.io/posts/2024/02/large-scale-contextual-market-equilibrium/)]
 
 * The First Quantitative Finance Competition of Peking University, Beijing, China
   * **Participant**, 2023/05

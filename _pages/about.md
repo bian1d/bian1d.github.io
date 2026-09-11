@@ -11,12 +11,42 @@ I am a junior undergraduate student at [Yuanpei College](https://yuanpei.pku.edu
 
 My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning. Here's my [CV](https://drive.google.com/file/d/1rzDjbNf2FM7iRQh66b0GfjaqgzoSGFeH/view?usp=drive_link) and my [transcripts](https://drive.google.com/file/d/1NP6Tau9O6qO6V9MAqGgZBO-q-bed5NKE/view?usp=sharing).
 
-Recent research work
+Recent Research & Projects
 ======
-- **Large-Scale Contextual Market Equilibrium Computation through Deep Learning**
+- **Interpretable Data Attribution for LLM Post-training** (Dec 2025 – present, ongoing)
+
+  Prof. Liangming Pan's Group, Peking University
+
+  Applying influence-function data attribution to RLHF/PPO rollouts to identify which training samples make a language model less toxic, a setting that prior (pretraining-only) attribution work did not cover. Implemented EK-FAC influence functions from scratch in PyTorch (within 1e-3 of brute-force Fisher computation); now extending the method to RLVR-trained reasoning models.
+
+  Builds on: Grosse et al., *Studying Large Language Model Generalization with Influence Functions* (Anthropic, 2023) [[arXiv](https://arxiv.org/abs/2308.03296)] [[Anthropic Research](https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions)]
+
+- **Motion Planning and Control for Collaborative Robot and Quadruped System** (Mar 2025 – Jun 2025)
+
+  Laboratory of Prof. He Wang, Peking University
+
+  RRT-based collaborative motion planning for a robot (GalBot) and a quadruped (Unitree Go2), enabling synchronized, collision-free task execution; bridged the sim-to-real gap by calibrating quadruped trajectory and locomotion parameters on real platforms.
+
+  <div class="media-row">
+  <figure style="--ar: 0.75">
+  <a href="/images/robot_onsite.jpg" target="_blank" rel="noopener"><img src="/images/robot_onsite.jpg" alt="On-site real-robot experiment with GalBot and Unitree Go2"></a>
+  <figcaption>On-site real-robot experiment (GalBot + Unitree Go2). Click to enlarge.</figcaption>
+  </figure>
+  <figure style="--ar: 1.6889">
+  <video controls preload="metadata" playsinline poster="/images/robotics_demo_poster.jpg">
+  <source src="/files/robotics_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+  </video>
+  <figcaption>Simulation demo: collaborative planning for arm + quadruped (MuJoCo)</figcaption>
+  </figure>
+  </div>
+
+- **Large-Scale Contextual Market Equilibrium Computation through Deep Learning** (Jun 2023 – Feb 2024)
 
   Yunxuan Ma, **Yide Bian**, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang, Xiaotie Deng
-  [[Abstract](https://bian1d.github.io/posts/2024/02/large-scale-contextual-market-equilibrium/)]
+
+  *Frontiers of Algorithmics (IJTCS-FAW 2025)*, LNCS, Springer, pp. 356–371
+  [[arXiv](https://arxiv.org/abs/2406.15459)] [[Springer](https://link.springer.com/chapter/10.1007/978-981-96-8312-3_27)] [[Abstract](https://bian1d.github.io/posts/2024/02/large-scale-contextual-market-equilibrium/)]
 
 Don't Go Yet!🍃
 ======
