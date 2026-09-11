@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate student at [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University, and I am spending this semester as an exchange student at the University of California, Berkeley. I'm Currently advised by Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/people/faculty/xiaotiedeng/index.htm). 
+I am a master's student in Data Science at [Harvard University](https://www.harvard.edu/) (expected May 2028). I received my B.S. in Data Science, with a minor in Economics, from [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University, in July 2026, and spent Spring 2024 as an exchange student in EECS at the University of California, Berkeley.
 
-My academic interests include Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning. Here's my [CV](https://drive.google.com/file/d/1rzDjbNf2FM7iRQh66b0GfjaqgzoSGFeH/view?usp=drive_link) and my [transcripts](https://drive.google.com/file/d/1NP6Tau9O6qO6V9MAqGgZBO-q-bed5NKE/view?usp=sharing).
+My academic interests include interpretability and data attribution for large language models, embodied AI, and computational economics. Here's my [CV](https://drive.google.com/file/d/1rzDjbNf2FM7iRQh66b0GfjaqgzoSGFeH/view?usp=drive_link) and my [transcripts](https://drive.google.com/file/d/1NP6Tau9O6qO6V9MAqGgZBO-q-bed5NKE/view?usp=sharing).
 
 Recent Research & Projects
 ======
@@ -17,15 +17,17 @@ Recent Research & Projects
 
   Prof. Liangming Pan's Group, Peking University
 
-  Applying influence-function data attribution to RLHF/PPO rollouts to identify which training samples make a language model less toxic, a setting that prior (pretraining-only) attribution work did not cover. Implemented EK-FAC influence functions from scratch in PyTorch (within 1e-3 of brute-force Fisher computation); now extending the method to RLVR-trained reasoning models.
-
-  Builds on: Grosse et al., *Studying Large Language Model Generalization with Influence Functions* (Anthropic, 2023) [[arXiv](https://arxiv.org/abs/2308.03296)] [[Anthropic Research](https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions)]
+  <div class="fold">
+  <details>
+  <summary>Details</summary>
+  <p>Applying influence-function data attribution to RLHF/PPO rollouts to identify which training samples make a language model less toxic, a setting that prior (pretraining-only) attribution work did not cover. Implemented EK-FAC influence functions from scratch in PyTorch (within 1e-3 of brute-force Fisher computation); now extending the method to RLVR-trained reasoning models.</p>
+  <p>Builds on Grosse et al., <em>Studying Large Language Model Generalization with Influence Functions</em> (Anthropic, 2023) [<a href="https://arxiv.org/abs/2308.03296">arXiv</a>] [<a href="https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions">Anthropic Research</a>]</p>
+  </details>
+  </div>
 
 - **Motion Planning and Control for Collaborative Robot and Quadruped System** (Mar 2025 – Jun 2025)
 
   Laboratory of Prof. He Wang, Peking University
-
-  RRT-based collaborative motion planning for a robot (GalBot) and a quadruped (Unitree Go2), enabling synchronized, collision-free task execution; bridged the sim-to-real gap by calibrating quadruped trajectory and locomotion parameters on real platforms.
 
   <div class="media-row">
   <figure style="--ar: 0.75">
@@ -41,6 +43,13 @@ Recent Research & Projects
   </figure>
   </div>
 
+  <div class="fold">
+  <details>
+  <summary>Details</summary>
+  <p>RRT-based collaborative motion planning for a robot (GalBot) and a quadruped (Unitree Go2), enabling synchronized, collision-free task execution; bridged the sim-to-real gap by calibrating quadruped trajectory and locomotion parameters on real platforms.</p>
+  </details>
+  </div>
+
 - **Large-Scale Contextual Market Equilibrium Computation through Deep Learning** (Jun 2023 – Feb 2024)
 
   Yunxuan Ma, **Yide Bian**, Hao Xu, Weitao Yang, Jingshu Zhao, Zhijian Duan, Feng Wang, Xiaotie Deng
@@ -53,7 +62,7 @@ Don't Go Yet!🍃
 Check out my interesting photo for more!
 [Visit My Blog](https://bian1d.github.io/posts/2023/01/Photo_of_choice/)
 
-Feel Free to Contact me at *bian1d@berkeley.edu* or *bian1d@stu.pku.edu.cn*
+Feel free to contact me at *yide_bian@g.harvard.edu*.
 
 <!-- Related Courses
 ======

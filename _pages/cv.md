@@ -65,10 +65,14 @@ Service and leadership
 
 Education
 ======
-* Bachelor of Science in Data Science and Big Data Technology, Yuanpei College, Peking University, 2021/09 – 2025/07
-  * Cumulative GPA: 3.74/4.00
+* M.S. in Data Science, Harvard University, 2026/09 – 2028/05 (expected)
+* B.S. in Data Science (Minor in Economics), Yuanpei College, Peking University, 2021/09 – 2026/07
+  * Cumulative GPA: 3.75/4.00
   * Related Courses: Machine Learning, Generative Modeling, Probability Theory, Econometrics, Operating Systems
-  * Awards: Gold Medalist & National Training Team Member at 34rd Chinese Chemistry Olympiad (2020), School-level Learning Excellence Award (2022)
+  * Awards: Merit Student Award & Second Prize Scholarship, Peking University (2025); Gold Medalist & National Training Squad Member, 34th Chinese Chemistry Olympiad (2020); School-level Learning Excellence Award (2022)
+* Exchange Student, Electrical Engineering and Computer Sciences, University of California, Berkeley, 2024/01 – 2024/05
+  * GPA: 3.90/4.00
+  * Related Courses: Statistics, LLMs and Alignment, Embodied AI, Generative Modeling, CS170 Efficient Algorithms, CS162 Operating Systems, CS61C Computer Architecture
 
 Work experience
 ======
@@ -124,14 +128,14 @@ Work experience
 
 Skills
 ======
-* Language Skills: Native Chinese Mandarin, B1 level English (IELTS: 7.0).
-* Programming Skills: C, Python (PyTorch /Pandas /Numpy, etc.), LaTeX.
+* Language Skills: Native Mandarin Chinese, proficient English (IELTS: 7.0).
+* Programming Skills: Python (PyTorch, NumPy, Pandas, etc.), C++, C, Stata, LaTeX, Git, Wandb, Markdown.
 * Additional Skills: Game theory, economics.
 
 Research Interests
 ======
-* Computational Economics, Explainable AI, and Uncertainty Quantification in Machine Learning.
+* Interpretability and data attribution for large language models, embodied AI, and computational economics.
 
 Hobbies
 ======
-* Tennis, Cycling, Skiing, American-style role-playing board games, and MOBA games.
+* Singing (baritone), Frisbee, Tennis, Skiing, and Strategy Games.
