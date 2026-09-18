@@ -131,7 +131,7 @@ h2 {
 }
 
 span.highlight {
-  background-color: #ffffd0;
+  background-color: #f3f3dc;
 }
 
 .colored-box {
@@ -194,5 +194,28 @@ table {
 
   tr.proj td:first-child {
     padding-bottom: 0 !important;
+  }
+}
+
+/* featured row: soft tint with rounded corners instead of a hard yellow block */
+tr.featured td {
+  background-color: #f7f7e8;
+}
+
+tr.featured td:first-child {
+  border-radius: 12px 0 0 12px;
+}
+
+tr.featured td:last-child {
+  border-radius: 0 12px 12px 0;
+}
+
+@media (max-width: 600px) {
+  tr.featured td:first-child {
+    border-radius: 12px 12px 0 0;
+  }
+
+  tr.featured td:last-child {
+    border-radius: 0 0 12px 12px;
   }
 }

@@ -60,7 +60,7 @@
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
             <!-- robotics: featured, video autoplays -->
-            <tr class="proj" bgcolor="#ffffd0">
+            <tr class="proj featured">
               <td style="padding:16px;width:40%;vertical-align:middle">
                 <video class="featured-video" autoplay muted loop playsinline controls preload="auto" poster="images/robotics_demo_poster.jpg">
                   <source src="files/robotics_demo.mp4" type="video/mp4">
@@ -87,7 +87,7 @@
             <!-- LLM data attribution -->
             <tr class="proj">
               <td style="padding:16px;width:40%;vertical-align:middle">
-                <img class="thumb" src="images/influence_thumb.svg" alt="Influence functions">
+                <a href="https://arxiv.org/abs/2308.03296"><img class="thumb" src="images/influence_thumb.png" alt="Token-wise influence heatmap from Grosse et al. (Anthropic, 2023): red tokens push the model toward the answer, teal tokens away" title="Token-wise influence heatmap, Grosse et al. (Anthropic, 2023)"></a>
               </td>
               <td style="padding:8px;width:60%;vertical-align:middle">
                 <span class="papertitle">Interpretable Data Attribution for LLM Post-training</span>
@@ -101,7 +101,7 @@
                 <a href="https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions">Anthropic research page</a>
                 <p></p>
                 <p>
-                  Which RLHF training samples make a language model less toxic? I apply influence-function data attribution to PPO rollouts, a setting that prior (pretraining-only) attribution work did not cover. EK-FAC influence functions implemented from scratch in PyTorch (within 1e-3 of brute-force Fisher computation); now extending the method to RLVR-trained reasoning models.
+                  Which RLHF training samples make a language model less toxic? I apply influence-function data attribution to PPO rollouts, a setting that prior (pretraining-only) attribution work did not cover. EK-FAC influence functions implemented from scratch in PyTorch (within 1e-3 of brute-force Fisher computation); now extending the method to RLVR-trained reasoning models. Thumbnail: token-wise influence heatmap from Grosse et al.
                 </p>
               </td>
             </tr>
