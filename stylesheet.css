@@ -178,3 +178,21 @@ table {
     font-size: 26px;
   }
 }
+
+/* phones: stack each project row (media on top, text below) so videos get full width */
+@media (max-width: 600px) {
+  tr.proj,
+  tr.proj td {
+    display: block;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+
+  tr.proj td {
+    padding: 10px 12px !important;
+  }
+
+  tr.proj td:first-child {
+    padding-bottom: 0 !important;
+  }
+}

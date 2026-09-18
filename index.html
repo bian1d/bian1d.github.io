@@ -60,7 +60,7 @@
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
             <!-- robotics: featured, video autoplays -->
-            <tr bgcolor="#ffffd0">
+            <tr class="proj" bgcolor="#ffffd0">
               <td style="padding:16px;width:40%;vertical-align:middle">
                 <video class="featured-video" autoplay muted loop playsinline controls preload="auto" poster="images/robotics_demo_poster.jpg">
                   <source src="files/robotics_demo.mp4" type="video/mp4">
@@ -85,7 +85,7 @@
             </tr>
 
             <!-- LLM data attribution -->
-            <tr>
+            <tr class="proj">
               <td style="padding:16px;width:40%;vertical-align:middle">
                 <img class="thumb" src="images/influence_thumb.svg" alt="Influence functions">
               </td>
@@ -106,8 +106,34 @@
               </td>
             </tr>
 
+            <!-- molecular force field (OC20) -->
+            <tr class="proj">
+              <td style="padding:16px;width:40%;vertical-align:middle">
+                <video class="featured-video" autoplay muted loop playsinline preload="metadata" poster="images/ocp_adsorption_poster.jpg">
+                  <source src="files/ocp_adsorption_loop.mp4" type="video/mp4">
+                </video>
+              </td>
+              <td style="padding:8px;width:60%;vertical-align:middle">
+                <span class="papertitle">Molecular Force Field Prediction with Graph Neural Networks</span>
+                <br>
+                <span class="meta">Laboratory of Prof. Di He, Peking University</span>
+                <br>
+                <em>Jun &ndash; Nov 2024</em>
+                <br>
+                <a href="https://arxiv.org/abs/2010.09990">OC20 dataset</a>
+                /
+                <a href="https://arxiv.org/abs/2306.12059">EquiformerV2</a>
+                /
+                <a href="https://github.com/FAIR-Chem/fairchem">animation: Open Catalyst Project</a>
+                <p></p>
+                <p>
+                  Does physics-informed design make force prediction more accurate? Forces are computed as energy gradients with respect to atomic positions, and the model is trained on OC20's structure-to-energy-and-forces task (~1.28M adsorbate&ndash;catalyst systems, like the adsorbate relaxing onto a metal surface on the left), matching the state-of-the-art EquiformerV2. I also wired real-time data streaming into Meta's Fairseq so training stayed stable across 8&times; RTX 4090 GPUs.
+                </p>
+              </td>
+            </tr>
+
             <!-- market equilibrium paper -->
-            <tr>
+            <tr class="proj">
               <td style="padding:16px;width:40%;vertical-align:middle">
                 <a href="https://arxiv.org/abs/2406.15459"><img class="thumb" src="images/marketfcnet_thumb.png" alt="MarketFCNet training process"></a>
               </td>
@@ -150,9 +176,6 @@
                 </div>
               </td>
               <td style="padding:8px;width:75%;vertical-align:middle">
-                <strong>Molecular force field prediction with graph neural networks</strong>, Prof. Di He's lab, Peking University, 2024.
-                Predicting forces as energy gradients w.r.t. atomic positions; matched EquiformerV2 on ~1.28M organic molecules, training on 8&times; RTX 4090 with streaming data in Fairseq.
-                <br><br>
                 <strong>Neural networks for high-dimensional optimal control</strong>, Prof. Weinan E's group, Peking University, 2023.
                 Value-function networks that warm-start classical two-point boundary value solvers.
                 <br><br>
